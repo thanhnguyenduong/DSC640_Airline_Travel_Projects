@@ -1,1 +1,1 @@
-# DSC640:Data_Presentation_and_Visualization
+# DSC640: Data Presentation and Visualization
