@@ -7,7 +7,7 @@
 2. Infographics
 3. Blog Post
 
-#### Data Sources I used were:Permalink
+#### Data Sources I used were:
 * Airline Safety, Aviation Safety Network
 * Crash Stats & Reports, NHTSA
 * Annual Financial Results: U.S. Passenger Airlines, Airlines for America
